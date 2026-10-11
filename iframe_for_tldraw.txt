@@ -1,0 +1,8 @@
+<!-- Замени ИМЯ-РЕПОЗИТОРИЯ на свой адрес GitHub Pages. -->
+<iframe
+  src="https://sweet-nerevar.github.io/ИМЯ-РЕПОЗИТОРИЯ/"
+  width="250" height="320"
+  allow="fullscreen" allowfullscreen
+  style="border:0;background:transparent;display:block;"
+  title="Лита — сборы в дорогу">
+</iframe>
